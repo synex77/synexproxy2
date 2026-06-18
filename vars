@@ -1,0 +1,79 @@
+UpdateMsg|`2New `9Proxy Version Is Released, Update Proxy To `2Newest`` Version To Play!````
+Version|OLD_VERSION_CLOSED
+
+
+
+
+
+
+
+
+#PC vars
+# PostAPI|REMOVED - External API cleaned
+PostAddress|/growtopia/server_data.php
+ProxyServer|195.62.48.50
+ProxyServerPort|1234
+# discord|REMOVED - External Discord invite cleaned
+discordme|`b[`9discord.gg/teammax``]``
+GrowtopiaIP|213.179.209.175
+GrowtopiaPort|17043|17043|17043|17043|17043
+teamdav|DAVPLAY34
+#teamhuf|HUFGG132
+#teamrud|RUDGT50
+#teamlia|LIASTYLE
+#teameuro|EUROWOW
+KovatTyypit|owner|LEKSA|kondee|Dabah|leksa
+# UpdateURL|REMOVED - Auto-update backdoor risk cleaned
+# DiscordID|REMOVED - Privacy risk cleaned
+TemporaryUse|0
+# ItemsBackup|REMOVED - External items.dat URL cleaned
+# ItemDataBackup2|REMOVED - External items.dat URL cleaned
+RudysURL|
+
+# AddModsList|67302|`#@Miu| - Backdoor admin list removed
+# AddModsList|36299549|`#@Moniuet| - Backdoor admin list removed
+
+server_data_Start
+server|%s
+port|17091
+loginurl|login.growtopiagame.com
+type|1
+#maint|Server is under maintenance. We will be back online shortly. Thank you for your patience!
+beta_server|127.0.0.1
+beta_port|1945
+beta_type|1
+beta2_server|beta2.growtopiagame.com
+beta2_port|26999
+beta2_type|1
+type2|0
+meta|%s
+RTENDMARKERBS1001
+server_data_End
+
+LoginMessage1|
+LoginMessage4|
+LoginMessage5|
+
+LoginMessage2|
+LoginMessage3|`2Logging In...
+UpdateMessage|`2New `9Proxy Version Is Released, Use `2Newest`` Version To Play!````
+ProxyVersion|16.6
+
+# PostFields|REMOVED - Data transmission cleaned
+
+# CsnLink|/rud|`9(Warp To Newest `8RUDYS`` Casino Link)|REMOVED - Discord webhook cleaned
+# CsnLink|/yt|`9(Warp To Newest `8TEAMYT`` Casino Link)|REMOVED - Discord webhook cleaned
+# CsnLink|/put|`9(Warp To Newest `8TEAMPUT`` Casino Link)|REMOVED - Discord webhook cleaned
+# CsnLink|/ju|`9(Warp To Newest `8TEAMJU`` Link)|REMOVED - Casino webhook cleaned
+AddWarpLinkThroughProxyServer|/pay|`9(Warp To Newest `8TEAMPAY`` Casino Link)|teampay|
+AddSetLinkAdmins|teampay|Usernames:hevbayad:owner|
+
+# GazzetteStart - REMOVED (contained external Discord promo/links)
+#add_image_button|banner_input_/rud|interface/Rudbanner.rttex|bannerlayout|||
+add_image_button|banner_input_/pay|interface/teampay_banner.rttex|bannerlayout|||
+add_spacer|small
+# add_smalltext|`9Creators: Joakim & Naade. Discord: `1joakimmer1k0`` & `1naade_``|left| - External promo removed
+# add_url_button||`9Join To The New Proxy `cDiscord Server|NOFLAGS|https://discord.gg/ajproxy| - External promo removed
+# add_textbox|`2Enjoy `9the proxy made by `b[`9joakimmer1k0``]``|left|2480| - External promo removed
+add_spacer|small
+# GazzetteEnd

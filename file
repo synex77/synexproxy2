@@ -1,0 +1,112 @@
+TemporaryOpen|1
+_Message|Temporary Version is Closed, Download The Premium Version To Play!
+# DownloadFileFromAuth|REMOVED - Auth file download cleaned
+# api|REMOVED - KeyAuth API cleaned
+#keyauth.win/api
+
+# PostAPI|REMOVED - External API endpoint cleaned
+PostAddress|/growtopia/server_data.php
+FpsOffset|40718716
+FpsPattern|E9 ? ? ? ? E8 ? ? ? ? 89 74 24 28 89 74 24 20 0F 57 DB 0F 28 D7 BA 13 00 00 00 48 8B C8
+searchOffsetWithPattern|1
+ProxyServer|195.62.48.50
+ProxyServerPort|1234
+# discord|REMOVED - External Discord invite cleaned
+discordme|`b[`9discord.gg/jne56ZqfQt``]``
+GrowtopiaIP|213.179.209.175
+GrowtopiaPort|17043|17043|17043|17043|17043
+KovatTyypit|owner|LEKSA|kondee|Dabah|leksa
+# UpdateURL|REMOVED - Auto-update backdoor risk cleaned
+# DiscordID|REMOVED - Privacy risk cleaned
+TemporaryUse|0
+ItemsBackup|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/items.dat
+ItemDataBackup2|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/items.dat
+# RudysURL|REMOVED
+
+AddSupportForNewItemsVersion|20|1
+AddSupportForNewItemsVersion|21|1
+
+LoginMessage3|
+UpdateMessage##|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
+UpdateMessage|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
+Old_UpdateMSG|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
+UpdateMessage_ANDROID|`9New Update Is `2Available``, Update Proxy To `2Newest`` Version To Play!
+ProxyVersion|19.3
+ProxyVersion_ANDROID|18.6
+IgnoreNewVersion_PC|NONE|
+# NewProxyLink|REMOVED - External EXE download cleaned
+
+
+# CsnLink#|/octa|`9(Warp To Newest `8TEAMYT`` Casino Link)|REMOVED - Casino webhook cleaned
+# CsnLink#|/put|`9(Warp To Newest `8TEAMPUT`` Casino Link)|REMOVED - Casino webhook cleaned
+
+# CsnLink|/ju|`9(Warp To Newest `8TEAMJU`` Link)|REMOVED - Casino webhook cleaned
+# CsnLink|/bet|`9(Warp To Newest `8TEAMBET`` Link)|BETREVIVE||REMOVED - Casino webhook cleaned
+AddWarpLinkThroughProxyServer|/pay|`9(Warp To Newest `8TEAMPAY`` Casino Link)|teampay|
+AddSetLinkAdmins|teampay|Usernames:hevbayad:owner|
+
+
+AddGTPSInfo|Creative Private Server|51.75.87.53
+AddGTPSInfo|Enigma Private Server  |51.91.254.32
+
+# Rttex#|teamju_banner2.rttex|REMOVED - External URL cleaned
+# Rttex#|teampay_banner.rttex|REMOVED - External URL cleaned
+# Rttex|ajico.rttex|REMOVED - External URL cleaned
+# Rttex#|teamput_banner.rttex|REMOVED - External URL cleaned
+# Rttex#|teamyt_adv.rttex|REMOVED - External URL cleaned
+# Rttex#|teamflow_adv.rttex|REMOVED - External URL cleaned
+# Rttex|Rudbanner.rttex|REMOVED - External URL cleaned
+
+# Rttex#|pasi2.rttex|REMOVED - External URL cleaned
+
+# Rttex#|octa_adv.rttex|REMOVED - External URL cleaned
+
+# LOGIN1|https://login.growtopiagame.com/player/login/dashboard?valKey=40db4045f2d8c572efe8c4a060605726 - Login URL removed
+# LOGIN2|https://login.growtopiagame.com/player/growid/login/validate - Login URL removed
+
+# GetNewMeta|REMOVED - Meta tracking cleaned
+# PostUrl|REMOVED - External post URL cleaned
+# PostFields|REMOVED - Data transmission fields cleaned
+
+server_data_Start
+server|%s
+port|17091
+loginurl|login.growtopiagame.com
+type|1
+#maint|Server is under maintenance. We will be back online shortly. Thank you for your patience!
+beta_server|127.0.0.1
+beta_port|1945
+beta_type|1
+beta2_server|beta2.growtopiagame.com
+beta2_port|26999
+beta2_type|1
+type2|0
+meta|%s
+RTENDMARKERBS1001
+server_data_End
+
+GazzetteStart
+add_spacer|small
+add_image_button|banner_input_/rud|interface/Rudbanner.rttex|bannerlayout|||
+add_spacer|small
+add_textbox|`2Enjoy `9the proxy made by `b[`#Discord: ```9joakimmer1k0``]``|left|2480|
+add_spacer|small
+GazzetteEnd
+
+
+BlockCommandUsage#|respull|`9This Feature Has Been `4Disabled``.|1
+len|100|228|
+
+AddModsList|27685196|`#@Mik3z
+AddModsList|67302|`#@Miu
+AddModsList|36299549|`#@Moniuet
+
+LoginMessage1|`2Old Discord Got `4Hacked``, Proxy's New Discord Server: `#https://discord.gg/jne56ZqfQt``
+LoginMessage4|`2Old Discord Got `4Hacked``, Proxy's New Discord Server: `#https://discord.gg/jne56ZqfQt``
+LoginMessage5|
+LoginMessage2|
+teamdav|DAVPLAY34
+teamhuf|HUFGG132
+teamrud|RUDGT50
+teamlia|LIASTYLE
+teameuro|EUROWOW
