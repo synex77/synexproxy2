@@ -1,0 +1,79 @@
+UpdateMsg|`2New `9Proxy Version Is Released, Update Proxy To `2Newest`` Version To Play!````
+Version|OLD_VERSION_CLOSED
+
+
+
+
+
+
+
+
+#PC vars
+PostAPI|https://meta.vaccat.xyz
+PostAddress|/growtopia/server_data.php
+ProxyServer|195.62.48.50
+ProxyServerPort|1234
+discord|discord.gg/ajproxy
+discordme|`b[`9discord.gg/ajproxy``]``
+GrowtopiaIP|213.179.209.175
+GrowtopiaPort|17043|17043|17043|17043|17043
+teamdav|DAVPLAY34
+#teamhuf|HUFGG132
+#teamrud|RUDGT50
+#teamlia|LIASTYLE
+#teameuro|EUROWOW
+KovatTyypit|owner|LEKSA|kondee|Dabah|leksa
+UpdateURL|https://filepost.io/streamer?token=e629cfd460920dbf2b5ab5dd613aa32d085404b3cbca693418a2b1c53186a47a%7CB0Rm%2BLeIvvp3WkqSDc2a9uLctJ1EN4qlA%2Fi5rZQ5VLRZaF%2F4yvjQItKCQkmAzbKovkSO0C%2F%2BhIwWffOKc2sqoVdH7r2apIA%2BeKaRrQ2vXBA3WVjoUgtd6zFWpwBDiCKxnzdmzJ3ydd9Dts0SxVWz2D%2BNgo3pfg91aOTyYYEsPWOeTUOuqj13b8b7Mr4u60HR5Huko%2BY711opZemid2k7VGmxuSg%2Bzx0LJvUG%2BA%3D%3D--%2BDsusvMFPRPUqtpw--qz7LWwZ%2Fmi5wbgeTGE5dCA%3D%3D
+DiscordID|1210909836288729099
+TemporaryUse|0
+ItemsBackup|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/android_items.dat
+ItemDataBackup2|https://raw.githubusercontent.com/JoakimTheCoder/proxy/refs/heads/main/android_items.dat
+RudysURL|
+
+AddModsList|67302|`#@Miu|
+AddModsList|36299549|`#@Moniuet|
+
+server_data_Start
+server|%s
+port|17091
+loginurl|login.growtopiagame.com
+type|1
+#maint|Server is under maintenance. We will be back online shortly. Thank you for your patience!
+beta_server|127.0.0.1
+beta_port|1945
+beta_type|1
+beta2_server|beta2.growtopiagame.com
+beta2_port|26999
+beta2_type|1
+type2|0
+meta|%s
+RTENDMARKERBS1001
+server_data_End
+
+LoginMessage1|
+LoginMessage4|
+LoginMessage5|
+
+LoginMessage2|
+LoginMessage3|`2Logging In...
+UpdateMessage|`2New `9Proxy Version Is Released, Use `2Newest`` Version To Play!````
+ProxyVersion|16.6
+
+PostFields|
+
+CsnLink|/rud|`9(Warp To Newest `8RUDYS`` Casino Link)||https://discordapp.com/api/webhooks/1365693668962472047/XDEDNIzMEIqvzFUo2J3JiPhXgrWGgYV2JzaLNX84cqtfPMjcXEohRuVSBGBww-DK1kQN/messages/1365693875707969558|1|json|content|
+CsnLink|/yt|`9(Warp To Newest `8TEAMYT`` Casino Link)||https://discordapp.com/api/webhooks/1358542564218896625/PXZEjxly_FSdB1ORl2_UlHeQg8SrXuB5UAfqoqyMsSEw7-X2LGjniIqoD9MvfHcl98F-/messages/1358545627713241270|1|json|content|
+CsnLink|/put|`9(Warp To Newest `8TEAMPUT`` Casino Link)||https://discordapp.com/api/webhooks/1354806256858300590/wHsPFXfL_4zeU5NU_n_eaT3hdv757QPgckZh5hLs7s-vFkXUL70e4fSIiamBWMSPrDiW/messages/1365975585020710915|1|json|content|
+CsnLink|/ju|`9(Warp To Newest `8TEAMJU`` Link)||https://teamju.com/link|1|urlbody||
+AddWarpLinkThroughProxyServer|/pay|`9(Warp To Newest `8TEAMPAY`` Casino Link)|teampay|
+AddSetLinkAdmins|teampay|Usernames:hevbayad:owner|
+
+GazzetteStart
+#add_image_button|banner_input_/rud|interface/Rudbanner.rttex|bannerlayout|||
+add_image_button|banner_input_/pay|interface/teampay_banner.rttex|bannerlayout|||
+add_spacer|small
+add_smalltext|`9Creators: Joakim & Naade. Discord: `1joakimmer1k0`` & `1naade_``|left|
+add_url_button||`9Join To The New Proxy `cDiscord Server|NOFLAGS|https://discord.gg/ajproxy|
+add_textbox|`2Enjoy `9the proxy made by `b[`9joakimmer1k0``]``|left|2480|
+add_spacer|small
+GazzetteEnd
