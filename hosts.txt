@@ -1,0 +1,7 @@
+# ============================================
+# AJProxy - Synex Proxy Virtual Hosts
+# Bu dosya /etc/hosts'a eklenir
+# ============================================
+
+195.62.48.50 www.growtopia1.com
+195.62.48.50 www.growtopia2.com
